@@ -8,3 +8,14 @@ Disseny i planificació de l'hort
 - L'aire
 - L'aigua
 - El sòl
+
+Les eines de l'hort
+
+- Aixada
+- Rasclet de terra
+- Rasclet de fulles
+- Plantador
+- Cultivador manual
+- Pala
+- Regadora
+- Cabàs
