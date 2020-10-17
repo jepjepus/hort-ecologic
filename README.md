@@ -24,3 +24,11 @@ Les hortalisses
 
 - La rotació de conreus
 - L'associació de cultius
+
+Les plantes aromàtiques i medicinals
+
+Control ecològic de plagues i malalties
+
+Fertilització orgànica del sòl
+- El compostatge
+
