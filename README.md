@@ -9,7 +9,7 @@ Disseny i planificació de l'hort
 - L'aigua
 - El sòl
 
-Les eines de l'hort
+Les eines de l'hort (mínimes)
 
 - Aixada
 - Rasclet de terra
@@ -19,3 +19,8 @@ Les eines de l'hort
 - Pala
 - Regadora
 - Cabàs
+
+Les hortalisses
+
+- La rotació de conreus
+- L'associació de cultius
